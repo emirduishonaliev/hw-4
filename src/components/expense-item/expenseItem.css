@@ -1,0 +1,21 @@
+.contain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  color: white;
+  background: #4b4b4b;
+  border-radius: 12px;
+  font-size: 18px;
+}
+
+.price {
+  width: 100px;
+  height: 37px;
+  padding-top: 14px;
+  padding-left: 43px;
+  background: #40005d;
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  margin-right: 20px;
+}

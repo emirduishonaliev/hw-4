@@ -1,0 +1,7 @@
+.new-expense-item {
+  display: flex;
+  justify-content: center;
+  background-color: #ad9be9;
+  padding: 30px;
+  margin: 0 auto;
+}

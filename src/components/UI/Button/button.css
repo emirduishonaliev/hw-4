@@ -1,0 +1,31 @@
+.add-btn {
+  background-color: #4a026b;
+  width: 228px;
+  height: 51px;
+  left: 606px;
+  top: 277px;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.cancel-btn {
+  width: 97px;
+  height: 51px;
+  left: 773px;
+  top: 447px;
+  background: #4a026b;
+  color: white;
+  border-radius: 10px;
+}
+
+.save-btn {
+  margin-left: 20px;
+  width: 186px;
+  height: 51px;
+  left: 884px;
+  top: 447px;
+  background: #4a026b;
+  color: white;
+  border-radius: 10px;
+}
